@@ -8,7 +8,7 @@ export interface Question {
 export const quizQuestions: Question[] = [
   {
     id: 1,
-    question: "Em que ano você nasceu?",
+    question: "Em que ano o aniversariante nasceu?",
     options: [
       "1985",
       "1991",
@@ -19,7 +19,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 2,
-    question: "Qual é o seu estilo musical favorito?",
+    question: "Qual é o estilo musical favorito do aniversariante?",
     options: [
       "Rock",
       "Pop",
@@ -30,7 +30,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 3,
-    question: "Qual é o seu teatro favorito?",
+    question: "Qual é o teatro favorito do aniversariante?",
     options: [
       "O Fantasma da Ópera",
       "O Vendedor de Sonhos",
@@ -41,7 +41,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 4,
-    question: "Qual é a sua carne favorita?",
+    question: "Qual é a carne favorita do aniversariante?",
     options: [
       "Frango",
       "Porco",
@@ -52,7 +52,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 5,
-    question: "Qual é o seu hobby favorito?",
+    question: "Qual é o hobby favorito do aniversariante?",
     options: [
       "Ler livros",
       "Silêncio",
@@ -63,7 +63,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 6,
-    question: "Qual é o seu animal de estimação favorito?",
+    question: "Qual é o animal de estimação favorito do aniversariante?",
     options: [
       "Gato",
       "Cachorro",
@@ -74,7 +74,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 7,
-    question: "Qual é o gênero do seu filme favorito?",
+    question: "Qual é o gênero de filme favorito do aniversariante?",
     options: [
       "Ação",
       "Drama",
@@ -85,7 +85,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 8,
-    question: "Qual é a sua bebida favorita?",
+    question: "Qual é a bebida favorita do aniversariante?",
     options: [
       "Refrigerante",
       "Suco natural",
@@ -96,7 +96,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 9,
-    question: "Qual é o seu destino de viagem dos sonhos?",
+    question: "Qual é o destino de viagem dos sonhos do aniversariante?",
     options: [
       "Japão",
       "Itália",
@@ -107,7 +107,7 @@ export const quizQuestions: Question[] = [
   },
   {
     id: 10,
-    question: "Qual é a sua linguagem de programação favorita?",
+    question: "Qual é a linguagem de programação favorita do aniversariante?",
     options: [
       "Python",
       "JavaScript",
