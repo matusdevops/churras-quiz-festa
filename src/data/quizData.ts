@@ -8,112 +8,112 @@ export interface Question {
 export const quizQuestions: Question[] = [
   {
     id: 1,
-    question: "Qual é a comida favorita do aniversariante?",
+    question: "Em que ano você nasceu?",
     options: [
-      "Pizza",
-      "Churrasco",
-      "Lasanha",
-      "Hambúrguer"
+      "1985",
+      "1991",
+      "1995",
+      "2000"
     ],
     correctAnswer: 1
   },
   {
     id: 2,
-    question: "Em que mês o aniversariante faz aniversário?",
+    question: "Qual é o seu estilo musical favorito?",
     options: [
-      "Janeiro",
-      "Março",
-      "Julho",
-      "Dezembro"
+      "Rock",
+      "Pop",
+      "Instrumental",
+      "Eletrônica"
     ],
     correctAnswer: 2
   },
   {
     id: 3,
-    question: "Qual é o hobby favorito do aniversariante?",
+    question: "Qual é o seu teatro favorito?",
     options: [
-      "Ler livros",
-      "Assistir filmes",
-      "Jogar videogame",
-      "Cozinhar"
+      "O Fantasma da Ópera",
+      "O Vendedor de Sonhos",
+      "Les Misérables",
+      "Cats"
+    ],
+    correctAnswer: 1
+  },
+  {
+    id: 4,
+    question: "Qual é a sua carne favorita?",
+    options: [
+      "Frango",
+      "Porco",
+      "Fígado de boi",
+      "Peixe"
     ],
     correctAnswer: 2
   },
   {
-    id: 4,
-    question: "Qual é a cor favorita do aniversariante?",
-    options: [
-      "Azul",
-      "Verde",
-      "Vermelho",
-      "Roxo"
-    ],
-    correctAnswer: 0
-  },
-  {
     id: 5,
-    question: "Qual é o animal de estimação preferido do aniversariante?",
+    question: "Qual é o seu hobby favorito?",
     options: [
-      "Gato",
-      "Cachorro",
-      "Pássaro",
-      "Peixe"
+      "Ler livros",
+      "Silêncio",
+      "Jogar videogames",
+      "Caminhar"
     ],
     correctAnswer: 1
   },
   {
     id: 6,
-    question: "Qual é o filme favorito do aniversariante?",
+    question: "Qual é o seu animal de estimação favorito?",
     options: [
-      "Ação",
-      "Comédia",
-      "Terror",
-      "Romance"
+      "Gato",
+      "Cachorro",
+      "Pássaro",
+      "Hamster"
     ],
     correctAnswer: 1
   },
   {
     id: 7,
-    question: "Qual é a bebida favorita do aniversariante?",
+    question: "Qual é o gênero do seu filme favorito?",
+    options: [
+      "Ação",
+      "Drama",
+      "Comédia",
+      "Terror"
+    ],
+    correctAnswer: 2
+  },
+  {
+    id: 8,
+    question: "Qual é a sua bebida favorita?",
     options: [
       "Refrigerante",
       "Suco natural",
       "Café",
       "Cerveja"
     ],
-    correctAnswer: 3
-  },
-  {
-    id: 8,
-    question: "Qual é o destino de viagem dos sonhos do aniversariante?",
-    options: [
-      "Praia",
-      "Montanhas",
-      "Cidade grande",
-      "Campo"
-    ],
-    correctAnswer: 0
+    correctAnswer: 1
   },
   {
     id: 9,
-    question: "Qual é o esporte preferido do aniversariante?",
+    question: "Qual é o seu destino de viagem dos sonhos?",
     options: [
-      "Futebol",
-      "Basquete",
-      "Tênis",
-      "Natação"
+      "Japão",
+      "Itália",
+      "Espanha",
+      "Austrália"
     ],
-    correctAnswer: 0
+    correctAnswer: 2
   },
   {
     id: 10,
-    question: "Qual é a música favorita do aniversariante?",
+    question: "Qual é a sua linguagem de programação favorita?",
     options: [
-      "Rock",
-      "Pop",
-      "Sertanejo",
-      "Eletrônica"
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++"
     ],
-    correctAnswer: 2
+    correctAnswer: 1
   }
 ];
