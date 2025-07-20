@@ -47,7 +47,7 @@ export function ResultCard({ score, total, onRestart, className }: ResultCardPro
               🥩 Vale Churrasco Conquistado! 🥩
             </h3>
             <p className="text-foreground">
-              Você ganhou um <span className="font-bold">vale churrasco de R$ 50,00</span>!
+              Você ganhou um <span className="font-bold">vale churrasco de 50%</span>!
               <br />
               Entre em contato para resgatar seu prêmio.
             </p>
