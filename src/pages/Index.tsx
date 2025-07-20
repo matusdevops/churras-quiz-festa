@@ -110,7 +110,7 @@ const Index = () => {
                   🥩 <span className="font-bold">Desafio do Churrasco:</span> 🥩
                 </p>
                 <p className="text-sm text-muted-foreground mt-1">
-                  Acerte 70% ou mais das perguntas e ganhe um vale churrasco de R$ 50,00!
+                  Acerte 70% ou mais das perguntas e ganhe um vale churrasco de 50%!
                 </p>
               </div>
               <p className="text-muted-foreground">
